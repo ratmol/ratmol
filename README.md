@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning oop and javascript
 - 💞️ I’m looking to collaborate on open source projects with linux
 - 📫 How to reach me : just message me lol!
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Agitated with learning
 
 <!---
