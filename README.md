@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning oop and javascript
 - 💞️ I’m looking to collaborate on open source projects with linux
 - 📫 How to reach me : just message me lol!
-- ⚡ Fun fact: Agitated with learning
+
 
 <!---
 ratmol/ratmol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
