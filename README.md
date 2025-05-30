@@ -1,8 +1,7 @@
 - 👋 Hi, I’m aben
 - 👀 I’m interested in coding and developing
-- 🌱 I’m currently learning oop and javascript
-- 💞️ I’m looking to collaborate on open source projects with linux
-- 📫 How to reach me : just message me lol!
+- Are you readddyyyy?? 🎸
+- 👺
 
 
 <!---
