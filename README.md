@@ -1,6 +1,4 @@
-- 👋 Hi, I’m aben
-- 👀 I’m interested in coding and developing
-- Are you readddyyyy?? 🎸
+
 - 👺
 
 
